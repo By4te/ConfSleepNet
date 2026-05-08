@@ -10,7 +10,6 @@
 
 </div>
 
-
 ## Abstract
 Multi-view learning has been widely applied for sleep stage classification using multi-modal data. However, existing methods typically assume that different modalities are well-aligned, which is often unattainable in real-world scenarios, thereby compromising the reliability of the staging results. In this paper, we propose ConfSleepNet, a conflict-aware evidential framework that dynamically resolves inter-view conflicts. The framework consists of multi-view evidence extraction and conflict-aware aggregation. In the first phase, it learns category-related evidence from different modalities, which represents the degree of support for individual sleep stages. Considering the inherent characteristics of varying modalities, we propose adaptive category structures for different modalities to promote more reasonable evidence learning. In the second phase, view-specific opinions, including prediction results and uncertainty, are constructed from the learned evidence. Notably, we propose a novel conflict-aware aggregation method that integrates these view-specific opinions into a reliable joint decision. This mechanism can effectively resolve conflicts among opinions and synthesize them into a reliable joint decision. Both theoretical analysis and experimental results demonstrate the effectiveness of ConfSleepNet in sleep staging tasks.
 
@@ -39,7 +38,6 @@ The proposed conflict-aware multi-view aggregation method can be evaluated on mu
 - [HandWritten](https://archive.ics.uci.edu/dataset/72/multiple+features)
 - [Scene15](https://figshare.com/articles/dataset/15-Scene_Image_Dataset/7007177/1)
 - [CUB](https://www.vision.caltech.edu/visipedia/CUB-200.html)
-
 
 ## Citation
 If you find that ConfSleepNet helps your research, please cite our paper:
