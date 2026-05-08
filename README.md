@@ -4,7 +4,7 @@
 
 **_Yunzhi Tian_<sup>1</sup>, _Dekui Wang_<sup>1</sup>, [_Jun Feng_<sup>1</sup>](https://scholar.google.com/citations?user=3PU_g78AAAAJ&hl=zh-CN&oi=sra), _Qirong Bo_<sup>1</sup>, _Wei Zhou_<sup>1</sup>, _Xingxing Hao_<sup>1</sup>**
 
-<sup>1</sup>SXU <sup>2</sup>TYUST <sup>3</sup>HZNU <sup>4</sup>NUDT
+<sup>1</sup> College of Computer Science, Northwest University, Xi'an, China
 
 
 <a href='https://openreview.net/pdf?id=U64wEbM7NB'><img src='https://img.shields.io/badge/OpenReview-gray'></a> &nbsp;
