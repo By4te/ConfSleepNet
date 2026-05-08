@@ -21,7 +21,7 @@ Multi-view learning has been widely applied for sleep stage classification using
 </div>
 
 ## Sleep Stage Classification
-**Taking the **SleepEDF-20** dataset as an example, we provide the complete experimental procedure of ConfSleepNet to validate its effectiveness in sleep stage classification.**
+Taking the **SleepEDF-20** dataset as an example, we provide the complete experimental procedure of ConfSleepNet to validate its effectiveness in sleep stage classification.
 
 
 ### Data
