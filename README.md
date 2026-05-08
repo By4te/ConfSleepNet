@@ -1,8 +1,8 @@
-<h2 align="center"> A Conflict-aware Evidential Framework for Reliable Sleep Stage Classification.</a></h2>
+<h2 align="center"> A Conflict-aware Evidential Framework for Reliable Sleep Stage Classification </a></h2>
 
 <div align="center">
 
-**[_Xinyan Liang_<sup>1</sup>](https://xinyanliang.github.io/), [_Shijie Wang_<sup>1</sup>](https://jie019.github.io/), [_Yuhua Qian_<sup>1</sup>](http://dig.sxu.edu.cn/qyh/), _Qian Guo_<sup>2</sup>, _Liang Du_<sup>1</sup>, _Bingbing Jiang_<sup>3</sup>, _Tingjin Luo_<sup>4</sup>, _Feijiang Li_<sup>1</sup>**
+**[_Yunzhi Tian_<sup>1</sup>], [_Dekui Wang_<sup>1</sup>], [_Jun Feng1</sup>](https://scholar.google.com/citations?user=3PU_g78AAAAJ&hl=zh-CN&oi=sra), _Qirong Bo_<sup>1</sup>, _Wei Zhou_<sup>1</sup>, _Xingxing Hao_<sup>1</sup>**
 
 <sup>1</sup>SXU <sup>2</sup>TYUST <sup>3</sup>HZNU <sup>4</sup>NUDT
 
