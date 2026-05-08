@@ -45,7 +45,7 @@ Multiple public datasets, including PIE, were used to validate the conflict-awar
 - [PIE](http://www.cs.cmu.edu/afs/cs/project/PIE/MultiPie/Home.html)
 
 
-## 📑Citation
+## Citation
 If you find that ConfSleepNet helps your research, please cite our paper:
 ```
 @inproceedings{
@@ -59,5 +59,5 @@ volume={},
 }
 ```
 
-## 📬Contact
+## Contact
 If you have any detailed questions or suggestions, you can email us: [nwu_tyz@stumail.nwu.edu.cn](mailto:nwu_tyz@stumail.nwu.edu.cn)
