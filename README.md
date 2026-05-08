@@ -27,8 +27,8 @@ Taking the **SleepEDF-20** dataset as an example, we provide the complete experi
 ### Data
 
 Multiple public datasets, including SleepEDF-20, were used for model validation, and these datasets are available at the following links (apply or download directly):
-- [Sleep-EDF20](https://www.physionet.org/content/sleep-edfx/1.0.0/)
-- [Sleep-EDF78](https://www.physionet.org/content/sleep-edfx/1.0.0/)
+- [SleepEDF-20](https://www.physionet.org/content/sleep-edfx/1.0.0/)
+- [SleepEDF-78](https://www.physionet.org/content/sleep-edfx/1.0.0/)
 - [MASS-SS3](https://ceams-carsm.ca/mass/)
 - [Sleep Heart Health Study (SHHS)](https://sleepdata.org/datasets/shhs)
   
