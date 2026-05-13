@@ -29,7 +29,7 @@ Multiple public datasets, including SleepEDF-20, were used for model validation,
 - [SleepEDF-20](https://www.physionet.org/content/sleep-edfx/1.0.0/)
 - [SleepEDF-78](https://www.physionet.org/content/sleep-edfx/1.0.0/)
 - [MASS-SS3](https://ceams-carsm.ca/mass/)
-- [Sleep Heart Health Study (SHHS)](https://sleepdata.org/datasets/shhs)
+- [SHHS](https://sleepdata.org/datasets/shhs)
   
 
 ## Additional Experiments
