@@ -3,9 +3,9 @@ AAAI Deadline, Code update soon.
 
 <div align="center">
 
-**_Yunzhi Tian_<sup>1</sup>, _Dekui Wang_<sup>1,*</sup>, _Qirong Bu_<sup>1</sup>, _Wei Zhou_<sup>1</sup>, _Xingxing Hao_<sup>1</sup>, [_Jun Feng_<sup>1,*</sup>](https://scholar.google.com/citations?user=3PU_g78AAAAJ&hl=zh-CN&oi=sra)**
+**_Yunzhi Tian_, _Dekui Wang_<sup>*</sup>, _Qirong Bu_, _Wei Zhou_, _Xingxing Hao_, [_Jun Feng_<sup>*</sup>](https://scholar.google.com/citations?user=3PU_g78AAAAJ&hl=zh-CN&oi=sra)**
 
-<sup>1</sup> College of Computer Science, Northwest University, Xi'an, China
+College of Computer Science, Northwest University, Xi'an, China
 
 <sup>*</sup> Corresponding Authors
 
