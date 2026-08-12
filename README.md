@@ -1,4 +1,4 @@
-AAAI Deadline, Code update soon.
+Code update soon.
 <h2 align="center"> A Conflict-aware Evidential Framework for Reliable Sleep Stage Classification </a></h2>
 
 <div align="center">
