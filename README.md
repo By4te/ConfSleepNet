@@ -32,13 +32,6 @@ Multiple public datasets, including SleepEDF-20, were used for model validation,
 - [SHHS](https://sleepdata.org/datasets/shhs)
   
 
-## Additional Experiments
-The proposed conflict-aware multi-view aggregation method can be evaluated on multi-view tasks, and these datasets are available at the following links:
-- [PIE](http://www.cs.cmu.edu/afs/cs/project/PIE/MultiPie/Home.html)
-- [HandWritten](https://archive.ics.uci.edu/dataset/72/multiple+features)
-- [Scene15](https://figshare.com/articles/dataset/15-Scene_Image_Dataset/7007177/1)
-- [CUB](https://www.vision.caltech.edu/visipedia/CUB-200.html)
-
 ## Citation
 If you find that ConfSleepNet helps your research, please cite our paper:
 ```
